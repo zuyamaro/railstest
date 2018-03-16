@@ -4,9 +4,9 @@ development:
   reconnect: false
   database: items_development
   pool: 5
-  username: mizkun
-  password: skyblue5090
-  host: localhost
+  username: XXXXXX
+  password: XXXXXX
+  host: XXXXXX
 
 test:
   adapter: mysql2
@@ -14,9 +14,9 @@ test:
   reconnect: false
   database: items_test
   pool: 5
-  username: mizkun
-  password: skyblue5090
-  host: localhost
+  username: XXXXXX
+  password: XXXXXX
+  host: XXXXXX
 
 production:
   adapter: mysql2
@@ -24,6 +24,6 @@ production:
   reconnect: false
   database: items_production
   pool: 5
-  username: mizkun
-  password: skyblue5090
-  host: localhost
+  username: XXXXXX
+  password: XXXXXX
+  host: XXXXXX
